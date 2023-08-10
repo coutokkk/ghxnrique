@@ -1,9 +1,32 @@
-
-header{
-    background-color: crimson;
-}
 body{
-    background-color: black;
+  background-color: #000000;
 }
-h1{color: white;}
-p{color: white;}
+h1{
+
+    background-color: #000000;
+    color: #fcfcfc;
+    height: 60;
+    text-align: center;
+
+  }
+
+  #spfc {
+	position: absolute; 
+	left: 1800px; /* posiciona a 90px para a esquerda */ 
+	top: 22px; /* posiciona a 70px para baixo */
+	}
+
+
+h2{
+  background-color: antiquewhite;
+}
+
+button{
+  background-color: #ffffff;
+  position: absolute;
+  left: 1500px;
+  top: 11px;
+}
+.IG{
+  color: aqua;
+}
